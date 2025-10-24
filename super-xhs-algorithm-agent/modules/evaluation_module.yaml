@@ -1,5 +1,5 @@
 name: evaluation_module
-model: gemini-2.5-flash
+model: gemini-2.5-pro
 description: >
   负责对内容进行五维算法雷达打分，并指出优先优化方向。
 instruction: |
