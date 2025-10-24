@@ -1,5 +1,5 @@
 name: critique_module
-model: gemini-2.5-flash
+model: gemini-2.5-pro
 description: >
   对创作者提供的笔记内容进行算法导向的批判、修改与优化建议。
 instruction: |
